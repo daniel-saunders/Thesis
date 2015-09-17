@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {1}The SoLid Experiment}{3}
+\contentsline {section}{\numberline {1.1}Introduction}{3}
+\contentsline {subsection}{\numberline {1.1.1}Detector Technology}{3}
+\contentsline {section}{\numberline {1.2}SM1 Prototype}{3}
+\contentsline {subsection}{\numberline {1.2.1}Detector design}{3}
+\contentsline {subsubsection}{Coordinate system}{3}
+\contentsline {subsubsection}{Detector configuration}{3}
+\contentsline {paragraph}{Cubes}{3}
+\contentsline {paragraph}{Light fibres}{5}
+\contentsline {paragraph}{Silicon photomultipliers and readout}{5}
+\contentsline {paragraph}{Muon Vetos}{5}
+\contentsline {subsection}{\numberline {1.2.2}Triggers and data format}{5}
+\contentsline {paragraph}{Random trigger mode}{5}
+\contentsline {paragraph}{XY Co-incidence trigger}{5}
+\contentsline {subsection}{\numberline {1.2.3}Event reconstruction}{5}
+\contentsline {paragraph}{Peak finding}{6}
+\contentsline {paragraph}{Clustering}{6}
+\contentsline {paragraph}{Tracking}{6}
+\contentsline {paragraph}{Track fit}{6}
+\contentsline {paragraph}{Cube resolving and neutron identification}{6}
+\contentsline {subsection}{\numberline {1.2.4}Tracking performance}{7}
