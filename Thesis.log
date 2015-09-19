@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.2)  16 SEP 2015 15:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.5.2)  18 SEP 2015 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,21 +150,25 @@ G,.JBIG2,.JB2,.eps]
 (/usr/local/texlive/2012basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-))) (./Thesis.aux)
+))) (./Thesis.aux
+
+LaTeX Warning: Label `fig:sm1_codn_system' multiply defined.
+
+)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -175,14 +179,14 @@ LaTeX Font Info:    ... okay on input line 9.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 14.22636pt
 * modes: twoside 
-* h-part:(L,W,R)=(93.95122pt, 412.1662pt, 93.95122pt)
+* h-part:(L,W,R)=(86.72377pt, 426.6211pt, 86.72377pt)
 * v-part:(T,H,B)=(86.72377pt, 614.295pt, 93.95122pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=412.1662pt
+* \textwidth=426.6211pt
 * \textheight=614.295pt
-* \oddsidemargin=35.9076pt
-* \evensidemargin=21.68123pt
+* \oddsidemargin=28.68015pt
+* \evensidemargin=14.45378pt
 * \topmargin=-22.54622pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -216,11 +220,11 @@ LaTeX Font Info:    ... okay on input line 9.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <12> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
+(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
+(Font)              <6> on input line 20.
  [1
 
 {/usr/local/texlive/2012basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (.
@@ -240,45 +244,90 @@ File: Chapters/solid1/codnSystem.png Graphic file (type png)
 
 <use Chapters/solid1/codnSystem.png>
 Package pdftex.def Info: Chapters/solid1/codnSystem.png used on input line 17.
-(pdftex.def)             Requested size: 329.7342pt x 317.41293pt.
+(pdftex.def)             Requested size: 426.6211pt x 410.68729pt.
  [3
 
-] [4 <./Chapters/solid1/codnSystem.png>] [5]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
- (/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/omscmr.fd
+] [4 <./Chapters/solid1/codnSystem.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+(/usr/local/texlive/2012basic/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+ [5] [6]
+[7]
 
-[6]) [7] (./Thesis.aux) ) 
+LaTeX Warning: Reference `fig:pathlengthResiduals' on page 8 undefined on input
+ line 99.
+
+<Chapters/solid1/pathlengthComparisons.pdf, id=40, 794.97pt x 578.16pt>
+File: Chapters/solid1/pathlengthComparisons.pdf Graphic file (type pdf)
+
+<use Chapters/solid1/pathlengthComparisons.pdf>
+Package pdftex.def Info: Chapters/solid1/pathlengthComparisons.pdf used on inpu
+t line 103.
+(pdftex.def)             Requested size: 426.6211pt x 310.27855pt.
+
+
+LaTeX Warning: Reference `fig:pathlengthResiduals' on page 8 undefined on input
+ line 119.
+
+<Chapters/solid1/alphaResScan.pdf, id=41, 578.16pt x 433.62pt>
+File: Chapters/solid1/alphaResScan.pdf Graphic file (type pdf)
+
+<use Chapters/solid1/alphaResScan.pdf>
+Package pdftex.def Info: Chapters/solid1/alphaResScan.pdf used on input line 12
+3.
+(pdftex.def)             Requested size: 319.96582pt x 239.97383pt.
+ [8] [9 <./Chapters/solid1/pathlengthComparisons.pdf>]
+<Chapters/solid1/pathlengthCutScans.pdf, id=108, 794.97pt x 397.485pt>
+File: Chapters/solid1/pathlengthCutScans.pdf Graphic file (type pdf)
+
+<use Chapters/solid1/pathlengthCutScans.pdf>
+Package pdftex.def Info: Chapters/solid1/pathlengthCutScans.pdf used on input l
+ine 146.
+(pdftex.def)             Requested size: 426.6211pt x 213.3165pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+) [10 <./Chapters/solid1/alphaResScan.pdf>] [11 <./Chapters/solid1/pathlengthCu
+tScans.pdf>] (./Thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2356 strings out of 494578
- 33015 string characters out of 3168575
- 92841 words of memory out of 3000000
- 5547 multiletter control sequences out of 15000+200000
+ 2374 strings out of 494578
+ 33649 string characters out of 3168575
+ 92934 words of memory out of 3000000
+ 5562 multiletter control sequences out of 15000+200000
  15791 words of font info for 37 fonts, out of 3000000 for 9000
  314 hyphenation exceptions out of 8191
- 42i,6n,23p,700b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
- </Users/ds9133/Library/texlive/2012basic/texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </Users/ds9133/Library/texlive/2012ba
-sic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </Users/ds9133/Librar
-y/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </Use
-rs/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
-095.600pk> </Users/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk/ljfour/j
-knappen/ec/ecbx1095.600pk> </Users/ds9133/Library/texlive/2012basic/texmf-var/f
-onts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </Users/ds9133/Library/texlive/2012b
-asic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </Users/ds9133/Libra
-ry/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr
-/local/texlive/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b></usr/local/texlive/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/local/texlive/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb>
-Output written on Thesis.pdf (7 pages, 196813 bytes).
+ 42i,6n,23p,711b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen/
+ec/ecbx1200.600pk> </Users/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk/
+ljfour/jknappen/ec/ecbx1440.600pk> </Users/ds9133/Library/texlive/2012basic/tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </Users/ds9133/Library/texli
+ve/2012basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </Users/ds91
+33/Library/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600
+pk> </Users/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecbx2488.600pk> </Users/ds9133/Library/texlive/2012basic/texmf-var/fonts/pk
+/ljfour/jknappen/ec/ecrm1200.600pk> </Users/ds9133/Library/texlive/2012basic/te
+xmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/local/texlive/2012basi
+c/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2012
+basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texliv
+e/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2012basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Thesis.pdf (11 pages, 274913 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 506 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
