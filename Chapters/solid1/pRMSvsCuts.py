@@ -84,5 +84,5 @@ plt.xlabel("Cluster lower size cut")
 
 
 plt.subplots_adjust(left=0.07, right=0.99, top=0.95, bottom=0.13, wspace = 0.31, hspace = 0.06)
-plt.show()	
+# plt.show()	
 plt.savefig('pathlengthCutScans.pdf', format='pdf')
